@@ -1,12 +1,58 @@
-## Hi there 👋
+# DeeTech-Labs 👋
 
-<!--
+Разрабатываем инструменты для embedded-разработчиков и энтузиастов электроники.
 
-**Here are some ideas to get you started:**
+## О нас
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**DeeTech-Labs** — это лаборатория, специализирующаяся на создании десктопных утилит и инструментов для embedded-разработки. Мы помогаем разработчикам прошивок, инженерам и мейкерам упростить работу с микроконтроллерами, дисплеями и периферией.
+
+## 🎯 Основные направления
+
+- **Инструменты для разработки** — утилиты для конвертации ресурсов, генерации кода и автоматизации рутинных задач
+- **Desktop-приложения** — кроссплатформенные GUI-приложения на C++ и Qt
+
+## 🚀 Текущие проекты
+
+### [PixelStudio](https://github.com/DeeTech-Labs/PixelStudio)
+Десктопная утилита для конвертации изображений в C/C++ массивы и прошивочные форматы для OLED/TFT дисплеев.
+
+**Возможности:**
+- Конвертация изображений в код прошивки
+- Профили дисплеев (моно, RGB565, индексированная палитра)
+- Пресеты: Icon, Splash, E-paper, Indexed palette
+- Пакетный экспорт и sprite atlas
+- Русский и английский интерфейс
+
+**Технологии:** C++20, Qt 6.8, QML, CMake
+
+## 🛠 Технологии
+
+- **Языки:** C++, QML
+- **Фреймворки:** Qt 6 (Quick, QuickControls2, Gui, Network, Concurrent)
+- **Сборка:** CMake, Ninja, MSVC 2022
+- **CI/CD:** GitHub Actions
+- **Лицензия:** MIT
+
+## 💡 Философия
+
+Мы верим, что инструменты для embedded-разработки должны быть:
+- **Доступными** — открытый исходный код и понятная документация
+- **Практичными** — решают реальные задачи разработчиков
+- **Качественными** — современный код, чистая архитектура, хорошая документация
+
+## 🤝 Участие в проектах
+
+Мы приветствуем вклад сообщества! Если вы хотите помочь:
+- Сообщайте об ошибках через Issues
+- Предлагайте улучшения
+- Отправляйте Pull Request'ы
+
+## 📄 Лицензия
+
+Все наши проекты распространяются под лицензией **MIT**, если не указано иное.
+
+---
+
+<div align="center">
+  <sub>Создано с ❤️ для opensource-сообщества</sub>
+</div>
